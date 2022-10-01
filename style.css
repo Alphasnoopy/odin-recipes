@@ -1,6 +1,8 @@
 #title {
     text-align: center;
     font-size: 48px;
+    background-color: rgb(243, 232, 172);
+    color: rgb(255, 174, 0);
 }
 
 .container { 
