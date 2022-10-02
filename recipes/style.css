@@ -4,3 +4,15 @@
     background-color: rgb(243, 232, 172);
     text-align: center;
 }
+
+.imgcenter {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;   
+}
+
+.imgsize {
+    height: 500px;
+    width: auto;
+}
